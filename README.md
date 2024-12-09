@@ -1,5 +1,3 @@
-# Hello-World
-
 👋 Hi there! 
 - I’m Ru Jia, a passionate Software Developer specializing in backend systems, cloud computing, and web programming.
 
